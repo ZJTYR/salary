@@ -1,4 +1,4 @@
-<div align="center">
+[builder.pdf](https://github.com/user-attachments/files/26572402/builder.pdf)<div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
@@ -24,3 +24,6 @@ PDF_CN_MD5:8fd22d89ae481e31bec4494f11b0bce0
 
 <img width="1705" height="912" alt="image" src="https://github.com/user-attachments/assets/9b3998dd-5e00-4158-bcc8-d4d4e674efe3" />
 PDF_CN_SHA256：b0e0507a983e54ede2dacbe58d42f82afc2981cc178d4cdd9fd9806a4961ad4a
+
+[builder.pdf](https://github.com/user-attachments/files/26572405/builder.pdf)
+

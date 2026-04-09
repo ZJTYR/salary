@@ -1,5 +1,3 @@
-[builder.pdf](https://github.com/user-attachments/files/26572402/builder.pdf)<div align="center">
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
